@@ -7,7 +7,6 @@ Hi, I'm Aharneish!
 - 🎓 A data enthusiast with certifications in **Google Data Analytics**, **Computer Networks**, **Research Methodology**, and more.
 - 🤖 Passionate about **AI and Robotics**, with interests in **computer vision**, **autonomous systems**, and **real-time object detection**.
 - 📚 Currently mastering **Deep Learning** with TensorFlow, Keras, and reinforcement learning libraries.
-- 🎮 Creator of a 3D Tic-Tac-Toe game with enhanced features for multi-player interaction.
 
 ---
 
